@@ -31,12 +31,6 @@ body {
     margin: 0px;
 }
 
-.beneficios {
-    text-align: center;
-    background-color: #f0f8ff;
-    margin: 0px;
-}
-
 ul {
     display: inline-block;
     vertical-align: top;
@@ -49,6 +43,3 @@ ul {
     font-style: italic;
 }
 
-.imagembeneficios {
-    width: 50%;
-}
