@@ -34,7 +34,7 @@ body {
 button {
     background-color: rgb(190, 213, 255);
     text-align: center;
-    box-shadow: 10;
+    box-shadow: 500;
     display: block;
     margin: auto;
     border-width: 1px;
