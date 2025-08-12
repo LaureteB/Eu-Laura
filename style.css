@@ -34,15 +34,21 @@ body {
 button {
     background-color: rgb(190, 213, 255);
     text-align: center;
+    box-shadow
+    
 }
 
 a {
-    color: black;
+    color: #000;
     text-decoration: none;
-
 }
 
 a:hover {
     color: dodgerblue;
     background-color: #f0f8ff;
+}
+
+.container {
+  display: grid;
+  place-items: center;
 }
