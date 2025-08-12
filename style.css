@@ -34,9 +34,10 @@ body {
 button {
     background-color: rgb(190, 213, 255);
     text-align: center;
-    box-shadow;
+    box-shadow: 10;
     display: block;
     margin: auto;
+    border-width: 1px;
 }
 
 a {
