@@ -32,7 +32,7 @@ body {
 }
 
 button {
-    background-color: rgb(190, 213, 255);
+    background-color: #f0f8ff;
     text-align: center;
     width: 100px;
     height: 75px;
@@ -50,4 +50,8 @@ a {
 .meu-botao:hover a {
   color: dodgerblue;
   background-color: #f0f8ff;
+}
+
+.fundo {
+    background-color:#f0f8ff;
 }
