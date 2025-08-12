@@ -34,8 +34,9 @@ body {
 button {
     background-color: rgb(190, 213, 255);
     text-align: center;
-    box-shadow
-    
+    box-shadow;
+    display: block;
+    margin: auto;
 }
 
 a {
@@ -46,9 +47,4 @@ a {
 a:hover {
     color: dodgerblue;
     background-color: #f0f8ff;
-}
-
-.container {
-  display: grid;
-  place-items: center;
 }
