@@ -47,9 +47,7 @@ a {
     text-decoration: none;
 }
 
-a:hover {
-    color: dodgerblue;
-    background-color: #f0f8ff;
-    width: 100px;
-    height: 75px;
+.meu-botao:hover a {
+  color: dodgerblue;
+  background-color: #f0f8ff;
 }
