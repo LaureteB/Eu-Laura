@@ -69,3 +69,39 @@ a {
   left: 0;
   z-index: 1; /* Imagem atrás */
 }
+
+.foto400{
+
+    width:300px ;
+}
+
+.foto{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.textofoto{
+    margin: 10px;
+}
+
+.textofoto1{
+    margin: 300px;
+}
+
+.textofoto2{
+    margin: 80px;
+}
+
+.textofoto3{
+    margin: 90px;
+}
+
+.textofoto4{
+    margin: 100px;
+}
+
+.textofoto5{
+    margin: 120px;
+}
+
